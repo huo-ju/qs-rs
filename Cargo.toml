@@ -1,0 +1,11 @@
+[package]
+name = "qs-rs"
+version = "0.1.0"
+authors = ["huoju <virushuo@gmail.com>"]
+edition = "2019"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = {version = "1.0"}
+url = "2.1.0"
