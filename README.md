@@ -1,7 +1,7 @@
 # qs-rust
 
 
-Inspired by javascript [qs](https://github.com/ljharb/qs) module:
+Inspired by javascript [qs](https://github.com/ljharb/qs) module
 
 
 
