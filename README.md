@@ -9,7 +9,9 @@ Inspired by javascript [qs](https://github.com/ljharb/qs) module
 
 ```rust
 
-use crate::qs
+extern crate qs_rs;
+
+use crate::qs_rs::qs;
 
 let data = r#"
     {"b":1, "a":{"c":1,"b":2},"c":"c_st[ring]"}
